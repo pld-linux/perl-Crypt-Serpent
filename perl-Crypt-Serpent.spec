@@ -3,8 +3,8 @@
 %bcond_without	tests	# Do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	Crypt
-%define		pnam	Serpent
+%define	pdir	Crypt
+%define	pnam	Serpent
 Summary:	Crypt::Serpent Perl module - Serpent block cipher implementation
 Summary(pl):	Modu³ Perla Crypt::Serpent - implementacja szyfru blokowego Serpent
 Name:		perl-Crypt-Serpent
