@@ -6,7 +6,7 @@
 %define		pdir	Crypt
 %define		pnam	Serpent
 Summary:	Crypt::Serpent Perl module - Serpent block cipher implementation
-Summary(pl):	Modu≥ Perla Crypt::Serpent - implementacja szyfru blokowego Serpent
+Summary(pl.UTF-8):   Modu≈Ç Perla Crypt::Serpent - implementacja szyfru blokowego Serpent
 Name:		perl-Crypt-Serpent
 Version:	1.01
 Release:	1
@@ -33,15 +33,15 @@ a 128-bit block cipher. The key length can vary, but for the purposes
 of the AES it is defined to be either 128, 192, or 256 bits. The
 Serpent algorithm uses 32 rounds, or iterations of the main algorithm.
 
-%description -l pl
-Crypt::Serpent to zgodny z Crypt::CBC modu≥ szyfru blokowego Serpent.
-Serpent zosta≥ zaprojektowany przez Rossa Andersona, Eli Bihama i
+%description -l pl.UTF-8
+Crypt::Serpent to zgodny z Crypt::CBC modu≈Ç szyfru blokowego Serpent.
+Serpent zosta≈Ç zaprojektowany przez Rossa Andersona, Eli Bihama i
 Larsa Knudsena jako kandydat na AES (Advanced Encryption Standard -
-standard zaawansowanego szyfrowania). Zosta≥ wybrany jako jeden z
-piÍciu finalistÛw konkursu na AES. Serpent jest szybszy niø DES i
-bezpieczniejszy niø Triple DES. Jest 128-bitowym szyfrem blokowym
-D≥ugo∂Ê klucza moøe byÊ rÛøna, na potrzeby AES zosta≥a zdefiniowana
-jako 128, 192 lub 256 bitÛw. Algorytm uøywa 32 iteracji podstawowego
+standard zaawansowanego szyfrowania). Zosta≈Ç wybrany jako jeden z
+piƒôciu finalist√≥w konkursu na AES. Serpent jest szybszy ni≈º DES i
+bezpieczniejszy ni≈º Triple DES. Jest 128-bitowym szyfrem blokowym
+D≈Çugo≈õƒá klucza mo≈ºe byƒá r√≥≈ºna, na potrzeby AES zosta≈Ça zdefiniowana
+jako 128, 192 lub 256 bit√≥w. Algorytm u≈ºywa 32 iteracji podstawowego
 algorytmu.
 
 %prep
