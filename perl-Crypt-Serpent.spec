@@ -6,7 +6,7 @@
 %define		pdir	Crypt
 %define		pnam	Serpent
 Summary:	Crypt::Serpent Perl module - Serpent block cipher implementation
-Summary(pl.UTF-8):   Moduł Perla Crypt::Serpent - implementacja szyfru blokowego Serpent
+Summary(pl.UTF-8):	Moduł Perla Crypt::Serpent - implementacja szyfru blokowego Serpent
 Name:		perl-Crypt-Serpent
 Version:	1.01
 Release:	1
