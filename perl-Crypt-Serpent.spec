@@ -16,8 +16,10 @@ Release:	1
 # (but AES selection is over - Rijndael has won...)
 License:	non-distributable, unusable(?)
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-module/Crypt/%{pdir}-%{pnam}-%{version}.tar.gz
+# NoSource0-md5:	65336d40cd32d96bb0fc76f4174b206a
 NoSource:	0
+URL:		http://search.cpan.org/dist/Crypt-Serpent/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 Requires:	perl-Term-ReadKey
