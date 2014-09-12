@@ -72,6 +72,5 @@ rm -rf $RPM_BUILD_ROOT
 %doc CHANGES README
 %{perl_vendorarch}/Crypt/Serpent.pm
 %dir %{perl_vendorarch}/auto/Crypt/Serpent
-%{perl_vendorarch}/auto/Crypt/Serpent/*.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Crypt/Serpent/*.so
 %{_mandir}/man3/*
